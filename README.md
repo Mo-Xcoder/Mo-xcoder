@@ -1,7 +1,7 @@
 # Hey, I'm Mo! 👋
 
-<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=Mo-xcoder&show_icons=true&theme=gruvbox" />
-<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-xcoder&layout=compact&theme=gruvbox" />
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Mo-xcoder&show_icons=true&theme=gruvbox" />
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-xcoder&layout=compact&theme=gruvbox" />
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -16,3 +16,5 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+
+###
