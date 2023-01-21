@@ -21,7 +21,3 @@
 As a skilled and experienced React developer, I am dedicated to building high-quality, user-friendly web applications that provide a seamless experience for users. My expertise in React, JavaScript, HTML, and CSS, along with my experience working with Git, allows me to efficiently create responsive designs that are optimized for performance.
 
 I am a quick learner and always eager to take on new challenges. I have a strong understanding of web development principles and am able to work collaboratively with cross-functional teams to deliver projects on time and within budget.
-
-Throughout my career, I have had the opportunity to work on a variety of projects, from small startups to large enterprise applications. I pride myself on my ability to take on complex projects and deliver results that exceed expectations.
-
-I am passionate about staying up-to-date with the latest advancements in web development and I am always looking for ways to improve my skills and knowledge. I am confident that my expertise in React and web development, along with my strong work ethic, will enable me to make a valuable contribution to any team or project.
