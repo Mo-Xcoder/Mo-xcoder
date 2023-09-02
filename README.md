@@ -1,23 +1,49 @@
-# Hey, I'm Mo! 👋
+<div id="header" align="center">
+  <img src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif" width="325"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/muhammed-mehmood-302247201/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.youtube.com/channel/UCwat8a3Wmp5WeP8pGmw5kyQ">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    </a>
+    <a href="https://discordapp.com/users/708321432467275838">
+      <img src="https://img.shields.io/badge/Discord-Green?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=Mo-xcoder&style=flat-square&color=blue" alt=""/>
+  <h1>
+  Hey there!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
 
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Mo-xcoder&show_icons=true&theme=gruvbox" />
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-xcoder&layout=compact&theme=gruvbox" />
+### 🔧 About Me :
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+- 🖥️ I’m a Software Engineer who contributes to frontend and backend for building web applications.
 
-###
-As a skilled and experienced React developer, I am dedicated to building high-quality, user-friendly web applications that provide a seamless experience for users. My expertise in React, JavaScript, HTML, and CSS, along with my experience working with Git, allows me to efficiently create responsive designs that are optimized for performance.
+- 📺 In my free time, I watch anime and make projects.
 
-I am a quick learner and always eager to take on new challenges. I have a strong understanding of web development principles and am able to work collaboratively with cross-functional teams to deliver projects on time and within budget.
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+---
+
+### :fire: Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mo-xcoder&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-xcoder&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
